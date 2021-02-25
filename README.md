@@ -1,1 +1,1 @@
-# Hello, I am Boris Badenov
+# Hello, my name is Boris Badenov
